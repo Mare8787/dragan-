@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -511,7 +511,9 @@
         <h2>Subscribe</h2>
         <form action="subscribe.php" method="post">
             <input type="email" name="email" placeholder="Enter your email" required>
-            <button type="submit">Subscribe</button>
+            <a href="https://chat.whatsapp.com/GQJyvF5jyID3C9AZvqvXr8" target="_blank">
+    <button type="button">Subscribe</button>
+</a>
         </form>
     </section>
    
